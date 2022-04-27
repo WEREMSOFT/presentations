@@ -1,0 +1,28 @@
+Cuando yo comence a trabajar en sistemas, la industra de software era una industria "verde". 
+
+Los projectos que yo desarrollaba, eran sistemas colaborativos que ayudaban a la gente a trabajar en conjunto, potenciando su esfuerzo. Automatizando procesoss contribuia a usar menos papel en la oficina.
+
+Rapidamente las computadoras se hicieron mas y mas ubicuas llegando al dia de hoy donde el software esta presente en lugares inpensados en ese entonces. Desde un auto hasta un lavabajillas.
+
+La ubicuidad del software no lo hizo mas contaminante, pero si amplifico su impacto en el medio ambiente.
+
+Software cuidadosamente desarrollado puede hacer que el motor de un automobil reduzca sus emisiones, puede prolongar la vida util de la bateria de un smartphone, o que un datacenter consuma menos energia. Lo opuesto tambien es cierto.
+
+Uno de los pilares que determinan la eficiencia de un software es performance. Performance siempre fue importante en la industria del software desde que las computadores poseian CPU's con megaherts de un solo dijito y un puniado de memoria, asta los juegos de computadora y areas como High Frequency Trading donde cada microsegundo cuenta.
+
+Performance no solo es requerida cuando los recursos son escasos, sino que tambien cobra relevancia en aresas altamente competitivas.
+
+Dos ejemplos: Cuando el iphone fue lanzado, la principal ventaja competitiva fue la performance. En ese momento ya existian pantallas tactiles y telefonos con internet, pero la diferencia en el producto de Apple fue la inmediata respuesta con la que reaccionaba a las interacciones del usuario. Si lo comparamos con los sistemas operativos que eran contemporaneos, como windows CE, un dispositivo con pantalla tactil e interface grafica tenia evidente lag al, por ejemplo, arrastrar una ventana.
+
+El segundo ejemplo es en la industra de los videojuegos, donde sin un producto posee problemas de performance es duramente criticado por la prensa.
+
+Mi punto es que hay un estrecho nexo entre nuestra industria y la ecologia. Ahora mismo nos encontramos en una crisis de CPU's. En republica checa, de donde vengo yo, la fabrica de autos Skoda se vio obligada a detener la produccion al no contar con los chips necesarios para las computadoras de sus autos. 
+
+Esta escases se debe a que la fabricacion de CPU es una actividad de requiere grandes cantidades de agua. Y la region donde se encuentra la fabrica mas grande de procesadores del mundo, que pertenece a Taiwan Micro Conductors, sufrio una sequia que le impidio satisfacer la demanda mundial.
+
+Podemos pensar en esto ultimo como una version del efecto mariposa, donde la sequia en una provincia de Taiwan hace que una fabrica de autos en Europa deba detener la produccion.
+
+Esto nos da una pauta en lo contraintuitivo de algunas relaciones en la industria, cuando uno piensa en las areas afectadas por la sequia en una determinada region, uno piensa en la produccion de comida. No en la produccion de computadoras y mucho menos en la produccion de automobiles.
+
+Ahora que hemos establecido los estrechos lazos que unen nuestro oficio con el planeta donde vivimos, es hora de pensar como podemos contribuir positivamente con nuestro entorno desde nuestro lugar.
+
